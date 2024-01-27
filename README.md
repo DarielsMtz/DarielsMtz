@@ -21,5 +21,6 @@ GSFP Student in Web Application Development
 <a href="https://www.linkedin.com/in/DARIELS ALBERTO VALLADARES MARTINEZ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-
+<h4 align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFsdHk0dHk0cG5remxzZ252Zjd3N2t1d3BpbjFheHlsczB3b2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="100"/>
+</h4>
