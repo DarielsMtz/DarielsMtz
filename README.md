@@ -1,5 +1,7 @@
-<h1 class="center"> ¡Hola! 👋, Soy Dariels Martinez </h1>
-
+<h1 align="center"> ¡Hola! 👋, Soy Dariels Martinez </h1>
+<h4 align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFsdHk0dHk0cG5remxzZ252Zjd3N2t1d3BpbjFheHlsczB3b2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="100"/>
+</h4>
 Estudiante de GSFP en Desarrollo de Aplicaciones Web
 
 * 🌍  Estoy ubicado en Mallorca
@@ -15,7 +17,3 @@ Estudiante de GSFP en Desarrollo de Aplicaciones Web
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darielsmtz&layout=compact&theme=dark)
-
-<h4 align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFsdHk0dHk0cG5remxzZ252Zjd3N2t1d3BpbjFheHlsczB3b2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="100"/>
-</h4>
