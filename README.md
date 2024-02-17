@@ -1,7 +1,8 @@
 ¡Hola! 👋, Soy Dariels Martinez
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFsdHk0dHk0cG5remxzZ252Zjd3N2t1d3BpbjFheHlsczB3b2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="100"/>
-
+===============================
+<aside align="left" z-index="10"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXFsdHk0dHk0cG5remxzZ252Zjd3N2t1d3BpbjFheHlsczB3b2ozNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif" width="80"/>
+</aside>
 
 
 Estudiante de GSFP en Desarrollo de Aplicaciones Web
