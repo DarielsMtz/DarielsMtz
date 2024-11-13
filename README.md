@@ -1,4 +1,6 @@
-# ¡Hola! 👋, Soy Dariels Martinez
+# ¡Hola! 👋, te saluda Dariels Martinez
+
+Entusiasta de 23 años de Honduras 🇭🇳, especializado en **Desarrollo de Aplicaciones Web**. Experiencia en proyectos digitales y comprometido con la innovación. Busco oportunidades para crecer y colaborar en el ámbito tecnológico
 
 * 🌍  Estoy ubicado en Mallorca
 * ✉️  Puedes contactarme en [darielsmartinez926@gmail.com](mailto:darielsmartinez926@gmail.com)
